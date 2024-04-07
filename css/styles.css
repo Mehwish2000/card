@@ -1,0 +1,35 @@
+
+body{
+  background-color: aquamarine;
+}
+@media (max-width: 767px) {
+  
+
+.card{
+  background-color: rgb(171, 171, 238);
+ 
+  width: 590px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 60px;
+  padding:50px;
+  border:10px solid black;
+  border-radius: 10px;;
+}
+h1,p{margin-top: 0;}
+.h1{font-size: 24px
+
+  
+}
+p {font-size: 18px;
+ 
+}
+.links{
+  margin-top:45px;
+  margin-bottom: 0;
+}
+img{margin-top: -20px;
+  margin-bottom: 0;
+  border-radius: 2%;
+}
+}
